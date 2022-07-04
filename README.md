@@ -3,24 +3,18 @@ xcode-themes
 
 Themes for Xcode IDE
 
-## To Apply 
+#### To Apply 
 
-Copy the file with extension .dvtcolortheme into  "**~/Library/Developer/Xcode/UserData/FontAndColorThemes/**"
+1. Open Terminal App, type following command or navigate to following path in Finder
 
-Now, in Xcode, goto Preferences > Fonts & Colors; in the left panel you will find all the themes.
+```bash
+open ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+```
 
+2. Copy the files with extension `.xccolortheme` to FontAndColorThemes. 
+3. Now, in Xcode, goto Preferences > Fonts & Colors; in the left panel you will find all the themes.
 
-'**Tiny Atom Light**' is inspired by Atom Editor and forked from [here](https://github.com/paulpilone/xcode-themes)
+#### Theme List
 
-![Tiny Atom Light preview](https://raw.githubusercontent.com/ajithrnayak/xcode-themes/master/Tiny%20Atom%20light/tiny%20Atom%20Light.png)
-
-
-
-'**Kite Light**'  
-
-![Kite Light preview](https://raw.githubusercontent.com/ajithrnayak/xcode-themes/master/Kite%20Light/Kite%20Light.png)
-
-
-'**Kite Yellow**'
-
-![Kite Yellow preview](https://raw.githubusercontent.com/ajithrnayak/xcode-themes/master/Kite%20Yellow/Kite%20Yellow.png)
+1. XDusk
+2. Xjet
