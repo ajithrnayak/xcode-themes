@@ -18,3 +18,4 @@ open ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 1. XDusk
 2. Xjet
+3. Xdark
